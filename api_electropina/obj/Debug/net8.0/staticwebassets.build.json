@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WdGUJWNVTTvNqp02damEmmyhVk5FQSRCRfWjKhNXRik=",
+  "Source": "api_electropina",
+  "BasePath": "_content/api_electropina",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+/home/laura/Escritorio/api electropina/dao_library/bin/Debug/net8.0/dao_library.deps.json
+/home/laura/Escritorio/api electropina/dao_library/bin/Debug/net8.0/dao_library.dll
+/home/laura/Escritorio/api electropina/dao_library/bin/Debug/net8.0/dao_library.pdb
+/home/laura/Escritorio/api electropina/dao_library/bin/Debug/net8.0/entity_library.dll
+/home/laura/Escritorio/api electropina/dao_library/bin/Debug/net8.0/entity_library.pdb
+/home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/dao_library.csproj.AssemblyReference.cache
+/home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/dao_library.GeneratedMSBuildEditorConfig.editorconfig
+/home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/dao_library.AssemblyInfoInputs.cache
+/home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/dao_library.AssemblyInfo.cs
+/home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/dao_library.csproj.CoreCompileInputs.cache
+/home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/dao_library.csproj.CopyComplete
+/home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/dao_library.dll
+/home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/refint/dao_library.dll
+/home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/dao_library.pdb
+/home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/ref/dao_library.dll
