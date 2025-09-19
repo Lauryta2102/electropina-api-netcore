@@ -34,3 +34,4 @@
 /home/laura/Escritorio/api electropina/api_electropina/obj/Debug/net8.0/api_electropina.pdb
 /home/laura/Escritorio/api electropina/api_electropina/obj/Debug/net8.0/api_electropina.genruntimeconfig.cache
 /home/laura/Escritorio/api electropina/api_electropina/obj/Debug/net8.0/ref/api_electropina.dll
+/home/laura/Escritorio/api electropina/api_electropina/obj/Debug/net8.0/api_electropina.sourcelink.json

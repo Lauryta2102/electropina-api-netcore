@@ -9,3 +9,4 @@
 /home/laura/Escritorio/api electropina/entity_library/obj/Debug/net8.0/refint/entity_library.dll
 /home/laura/Escritorio/api electropina/entity_library/obj/Debug/net8.0/entity_library.pdb
 /home/laura/Escritorio/api electropina/entity_library/obj/Debug/net8.0/ref/entity_library.dll
+/home/laura/Escritorio/api electropina/entity_library/obj/Debug/net8.0/entity_library.sourcelink.json

@@ -13,3 +13,4 @@
 /home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/refint/dao_library.dll
 /home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/dao_library.pdb
 /home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/ref/dao_library.dll
+/home/laura/Escritorio/api electropina/dao_library/obj/Debug/net8.0/dao_library.sourcelink.json
